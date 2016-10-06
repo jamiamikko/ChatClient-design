@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/jamiamikko/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/jamiamikko/Git/ChatClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_91e38591baab4097e7b1f1773d3384daa886bea1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamiamikko/Git/ChatClient/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f3c5fb26a437d18293c311cfef26444d26a2083c">
+        <dex dex="/Users/jamiamikko/Git/ChatClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_947d8c2ed5bdeb4d748016be517d59d33a7d74ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamiamikko/Git/ChatClient/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="803b013a8fb506c291fcf37e97b9669e5e4a176d">
+        <dex dex="/Users/jamiamikko/Git/ChatClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_340dcbf34f79cbaf44c67c66fd0a31265b91987c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamiamikko/Git/ChatClient/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/jamiamikko/Git/ChatClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_e76f35eeb5bf9cb40cfbf6d283cd78578d2a81f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamiamikko/Git/ChatClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/jamiamikko/Git/ChatClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_6cf63a6ea621e51e2b04b7a328b5c3c6172c959d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamiamikko/Git/ChatClient/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/jamiamikko/Git/ChatClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_71afb220287b2499a13b3bd46d4544340fbb2615/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamiamikko/Git/ChatClient/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/jamiamikko/Git/ChatClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_c78da33478bd040ae0e06f6c5c71f9b613adebfd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamiamikko/Git/ChatClient/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/jamiamikko/Git/ChatClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_027562eb0adec07e62fa7a4e2936a5bd2fcf141b/classes.dex" />
+    </item>
+
+</items>
